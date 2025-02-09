@@ -82,5 +82,5 @@ fig = go.Figure(go.Sankey(
     )
 ))
 
-fig.update_layout(title_text="Sankey Diagram", font_size=10)
+fig.update_layout(title_text="Sankey Diagram", font_size=12)
 fig.show()
